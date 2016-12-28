@@ -1,2 +1,2 @@
 # PingPongGame
-Ping Pong Game built for Coursera Python course
+Ping Pong Game built for an online Python course
